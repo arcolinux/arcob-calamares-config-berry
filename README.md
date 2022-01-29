@@ -1,0 +1,2 @@
+# ArcoLinuxB-Berry Calamares configuration
+
